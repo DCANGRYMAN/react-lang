@@ -1,0 +1,27 @@
+{
+  "language": "Idioma",
+  "home": {
+    "title": "Bem-vindo ao Mundo da Tecnologia",
+    "subtitle": "Explore o futuro por meio da inovação e do conhecimento."
+  },
+  "ai": {
+    "title": "Inteligência Artificial",
+    "content": "A Inteligência Artificial (IA) permite que computadores aprendam, raciocinem e se adaptem. Ela impulsiona aplicativos como chatbots, carros autônomos e sistemas de recomendação."
+  },
+  "cyber": {
+    "title": "Cibersegurança",
+    "content": "A Cibersegurança protege sistemas, redes e dados contra ataques digitais. É essencial para manter informações pessoais e corporativas seguras."
+  },
+  "cloud": {
+    "title": "Computação em Nuvem",
+    "content": "A computação em nuvem permite o acesso a recursos de TI pela internet, promovendo flexibilidade, escalabilidade e colaboração remota."
+  },
+  "software": {
+    "title": "Engenharia de Software",
+    "content": "A engenharia de software se concentra em projetar, desenvolver, testar e manter aplicações confiáveis e eficientes."
+  },
+  "data": {
+    "title": "Ciência de Dados",
+    "content": "A ciência de dados combina programação, estatística e aprendizado de máquina para extrair insights e apoiar a tomada de decisões."
+  }
+}

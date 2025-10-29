@@ -1,0 +1,27 @@
+{
+  "language": "Language",
+  "home": {
+    "title": "Welcome to the World of Technology",
+    "subtitle": "Explore the future through innovation and knowledge."
+  },
+  "ai": {
+    "title": "Artificial Intelligence",
+    "content": "Artificial Intelligence (AI) enables computers to learn, reason, and adapt. It powers applications like chatbots, autonomous cars, and recommendation systems."
+  },
+  "cyber": {
+    "title": "Cybersecurity",
+    "content": "Cybersecurity protects systems, networks, and data from digital attacks. It’s essential for keeping personal and corporate information safe."
+  },
+  "cloud": {
+    "title": "Cloud Computing",
+    "content": "Cloud computing allows access to computing resources via the internet, enabling flexibility, scalability, and remote collaboration."
+  },
+  "software": {
+    "title": "Software Engineering",
+    "content": "Software engineering focuses on designing, developing, testing, and maintaining reliable and efficient applications."
+  },
+  "data": {
+    "title": "Data Science",
+    "content": "Data science combines programming, statistics, and machine learning to extract insights from data and support decision-making."
+  }
+}

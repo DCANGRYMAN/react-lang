@@ -1,0 +1,8 @@
+{
+  "home": {
+    "title": "Welcome to React Lang",
+    "description": "This is the English version of the React Lang homepage.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  }
+}
