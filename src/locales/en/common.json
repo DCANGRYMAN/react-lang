@@ -1,27 +1,33 @@
 {
-  "language": "Language",
   "home": {
-    "title": "Welcome to the World of Technology",
-    "subtitle": "Explore the future through innovation and knowledge."
+    "title": "Welcome to React Lang",
+    "subtitle": "Learn about the latest technologies in tech",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
   },
   "ai": {
     "title": "Artificial Intelligence",
-    "content": "Artificial Intelligence (AI) enables computers to learn, reason, and adapt. It powers applications like chatbots, autonomous cars, and recommendation systems."
+    "description": "Explore the world of AI and machine learning",
+    "content": "Artificial Intelligence is the simulation of human intelligence by machines. It includes machine learning, deep learning, and natural language processing. Applications: recommendations, chatbots, predictive analysis, and intelligent automation."
   },
   "cyber": {
-    "title": "Cybersecurity",
-    "content": "Cybersecurity protects systems, networks, and data from digital attacks. It’s essential for keeping personal and corporate information safe."
+    "title": "Cyber Security",
+    "description": "Protect your digital assets with modern security practices",
+    "content": "Cyber Security protects systems, networks, and data against digital attacks. It involves firewalls, encryption, multi-factor authentication, and penetration testing. Essential for protecting sensitive information and maintaining business continuity."
   },
   "cloud": {
     "title": "Cloud Computing",
-    "content": "Cloud computing allows access to computing resources via the internet, enabling flexibility, scalability, and remote collaboration."
+    "description": "Scale your applications with cloud infrastructure",
+    "content": "Cloud computing allows you to run applications and store data on remote servers, accessible over the internet. Main providers: AWS, Azure, Google Cloud. Benefits: scalability, flexibility, reduced infrastructure costs, and high availability."
   },
   "software": {
-    "title": "Software Engineering",
-    "content": "Software engineering focuses on designing, developing, testing, and maintaining reliable and efficient applications."
+    "title": "Software Development",
+    "description": "Build robust applications with best practices",
+    "content": "Software Development involves designing, coding, testing, and maintaining applications. Agile methodologies, design patterns, and clean architecture are fundamental. Popular languages: Python, JavaScript, Java, and C++."
   },
   "data": {
     "title": "Data Science",
-    "content": "Data science combines programming, statistics, and machine learning to extract insights from data and support decision-making."
+    "description": "Analyze and visualize data for insights",
+    "content": "Data Science combines statistics, programming, and business intelligence to extract insights from large volumes of data. Tools: Python, R, SQL, Power BI. Applications: predictive analysis, customer segmentation, and process optimization."
   }
 }

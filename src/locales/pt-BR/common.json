@@ -1,27 +1,33 @@
 {
-  "language": "Idioma",
   "home": {
-    "title": "Bem-vindo ao Mundo da Tecnologia",
-    "subtitle": "Explore o futuro por meio da inovação e do conhecimento."
+    "title": "Bem-vindo ao React Lang",
+    "subtitle": "Aprenda sobre as últimas tecnologias em tech",
+    "getStarted": "Começar",
+    "learnMore": "Saiba Mais"
   },
   "ai": {
     "title": "Inteligência Artificial",
-    "content": "A Inteligência Artificial (IA) permite que computadores aprendam, raciocinem e se adaptem. Ela impulsiona aplicativos como chatbots, carros autônomos e sistemas de recomendação."
+    "description": "Explore o mundo da IA e aprendizado de máquina",
+    "content": "Inteligência Artificial é a simulação de inteligência humana por máquinas. Inclui machine learning, deep learning e processamento de linguagem natural. Aplicações: recomendações, chatbots, análise preditiva e automação inteligente."
   },
   "cyber": {
-    "title": "Cibersegurança",
-    "content": "A Cibersegurança protege sistemas, redes e dados contra ataques digitais. É essencial para manter informações pessoais e corporativas seguras."
+    "title": "Segurança Cibernética",
+    "description": "Proteja seus ativos digitais com práticas modernas de segurança",
+    "content": "Segurança Cibernética protege sistemas, redes e dados contra ataques digitais. Envolve firewalls, criptografia, autenticação multi-fator e testes de penetração. Essencial para proteger informações sensíveis e manter a continuidade dos negócios."
   },
   "cloud": {
     "title": "Computação em Nuvem",
-    "content": "A computação em nuvem permite o acesso a recursos de TI pela internet, promovendo flexibilidade, escalabilidade e colaboração remota."
+    "description": "Dimensione suas aplicações com infraestrutura em nuvem",
+    "content": "A computação em nuvem permite que você execute aplicações e armazene dados em servidores remotos, acessíveis pela internet. Principais provedores: AWS, Azure, Google Cloud. Benefícios: escalabilidade, flexibilidade, redução de custos com infraestrutura e alta disponibilidade."
   },
   "software": {
-    "title": "Engenharia de Software",
-    "content": "A engenharia de software se concentra em projetar, desenvolver, testar e manter aplicações confiáveis e eficientes."
+    "title": "Desenvolvimento de Software",
+    "description": "Construa aplicações robustas com as melhores práticas",
+    "content": "Desenvolvimento de Software envolve design, codificação, teste e manutenção de aplicações. Metodologias ágeis, padrões de design e arquitetura limpa são fundamentais. Linguagens populares: Python, JavaScript, Java e C++."
   },
   "data": {
     "title": "Ciência de Dados",
-    "content": "A ciência de dados combina programação, estatística e aprendizado de máquina para extrair insights e apoiar a tomada de decisões."
+    "description": "Analise e visualize dados para obter insights",
+    "content": "Ciência de Dados combina estatística, programação e business intelligence para extrair insights de grandes volumes de dados. Ferramentas: Python, R, SQL, Power BI. Aplicações: análise preditiva, segmentação de clientes e otimização de processos."
   }
 }
